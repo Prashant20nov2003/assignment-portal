@@ -18,7 +18,7 @@ A Node.js Express backend system for managing assignment submissions.
 3. Create a .env file in the root directory with the following variables:
    ```
    PORT=3000
-   MONGODB_URI=mongodb://localhost:27017/assignment-portal
+   MONGODB_URI=
    JWT_SECRET=your-secret-key
    ```
 4. Start MongoDB service on your machine
